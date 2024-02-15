@@ -1,0 +1,20 @@
+Pas: 1
+Structura contine: (1, 20),(3, 20),(2, 30),(4, 35),(5, 45).
+Din vectorii (1, 20) si (3, 20) rezulta (6, 40).
+
+Pas: 2
+Structura contine: (2, 30),(4, 35),(6, 40),(5, 45).
+Din vectorii (2, 30) si (4, 35) rezulta (7, 65).
+
+Pas: 3
+Structura contine: (6, 40),(5, 45),(7, 65).
+Din vectorii (6, 40) si (5, 45) rezulta (8, 85).
+
+Pas: 4
+Structura contine: (7, 65),(8, 85).
+Din vectorii (7, 65) si (8, 85) rezulta (9, 150).
+
+Pas: 5
+Structura contine: (9, 150).
+
+Numar total de deplasari: 40 + 65 + 85 + 150 = 340

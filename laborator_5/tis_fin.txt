@@ -1,0 +1,14 @@
+Persoana	Timp de servire	Timp de asteptare
+   7    	       2        	        2        
+   11   	       2        	        4        
+   3    	       3        	        7        
+   6    	       3        	        10       
+   10   	       4        	        14       
+   9    	       5        	        19       
+   1    	       7        	        26       
+   4    	       7        	        33       
+   5    	       8        	        41       
+   8    	       10       	        51       
+   2    	       15       	        66       
+Timpul mediu de asteptare:24.82
+

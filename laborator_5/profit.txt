@@ -1,0 +1,5 @@
+Ziua 1: c 27.0
+Ziua 2: a 100.0
+Ziua 4: e 15.0
+
+Profit maxim: 142.0
